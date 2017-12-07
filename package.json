@@ -1,0 +1,47 @@
+{
+  "name": "brunch-with-riot",
+  "version": "0.0.1",
+  "description": "brunch-with-riot",
+  "private": true,
+  "author": "Yizhe Xu <barrenbass@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "brunch build --production",
+    "lint": "tslint app/**/*.ts app/*.ts",
+    "test": "tsc && tslint app/**/*.ts app/*.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuyizhe/brunch-with-riot.git"
+  },
+  "keywords": [
+    "brunch",
+    "riot",
+    "typescript",
+    "pug",
+    "sass",
+    "skeleton",
+    "starter"
+  ],
+  "bugs": {
+    "url": "https://github.com/xuyizhe/brunch-with-riot/issues"
+  },
+  "homepage": "https://github.com/xuyizhe/brunch-with-riot#readme",
+  "devDependencies": {
+    "auto-reload-brunch": "^2.7.1",
+    "brunch": "^2.10.12",
+    "clean-css-brunch": "^2.10.0",
+    "pug": "^2.0.0-rc.4",
+    "riot-brunch": "^0.1.1",
+    "sass-brunch": "^2.10.4",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.2",
+    "typescript-brunch": "^2.3.0",
+    "typescript-simple": "^8.0.5",
+    "uglify-js-brunch": "^2.10.0"
+  },
+  "dependencies": {
+    "riot": "^3.7.4"
+  }
+}
