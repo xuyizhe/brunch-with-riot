@@ -15,6 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/xuyizhe/brunch-with-riot.git"
   },
+  "homepage": "https://xuyizhe.github.io/brunch-with-riot/"
   "keywords": [
     "brunch",
     "riot",
