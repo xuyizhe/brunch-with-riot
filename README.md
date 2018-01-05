@@ -2,6 +2,10 @@
 
 A Riot skeleton with TypeScript.
 
+[![Build Status](https://travis-ci.org/xuyizhe/brunch-with-riot.svg?branch=master)][travis]
+
+[travis]: https://travis-ci.org/xuyizhe/brunch-with-riot
+
 [![dependencies Status](https://david-dm.org/xuyizhe/brunch-with-riot/status.svg)](https://david-dm.org/xuyizhe/brunch-with-riot)
 [![devDependency Status](https://david-dm.org/xuyizhe/brunch-with-riot/dev-status.svg)](https://david-dm.org/xuyizhe/brunch-with-riot#info=devDependencies)
 
